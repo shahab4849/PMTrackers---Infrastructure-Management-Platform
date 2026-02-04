@@ -7,7 +7,7 @@ PMTrackers is a professional project and comment management platform specificall
 * Project Tracking: Comprehensive management of infrastructure-related tasks.
 * Comment System: Real-time collaboration and feedback loop for team members.
 * Scalable Architecture: Built with professional application logic for enterprise use.
-* 
+  
 # 🛠️ Tech Stack
 * Backend: Laravel, PHP 
 * Frontend: HTML, CSS, Modern Design Principles 
